@@ -102,6 +102,6 @@ int main(void)
 	
     while (1) 
     {
-		displayImage(OMEGA);
+		displayImage(LEGGSJEKK);
     }
 }

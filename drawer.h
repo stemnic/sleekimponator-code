@@ -10,6 +10,7 @@
 #define DRAWER_H_
 
 const uint8_t OMEGA[][8];
+const uint8_t LEGGSJEKK[][8];
 const int IMAGES_LEN;
 
 void displayImage(const uint8_t images[][8]);
